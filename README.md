@@ -8,3 +8,4 @@ Starter kit to use Grunt.JS in your web app
 - Type ```grunt``` to let grunt do its tasks
 
 You can change the path and use this project [last folder] to use with your project 
+
