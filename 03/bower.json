@@ -1,0 +1,20 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "Workflows with Grunt Course",
+  "authors": [
+    "Amir Azimi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "mustache": "~2.0.0"
+  }
+}

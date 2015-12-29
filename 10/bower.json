@@ -1,0 +1,22 @@
+{
+  "name": "gruntwokflow",
+  "description": "Project for Grunt Course",
+  "main": "",
+  "authors": [
+    "Amir Azimi"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "mustache.js": "mustache#~2.2.1"
+  }
+}
